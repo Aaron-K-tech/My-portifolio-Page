@@ -1,0 +1,139 @@
+@media only screen and (max-width: 500px){
+    #logo{left: 35%;
+        position: relative;
+        max-width: 120px;
+        top: 76px;}
+
+    #signup_box{
+        margin-top: 40px;
+    }
+
+    .showcase_text2{display: block;
+        font-size: 20px;
+    font-weight: 1000;
+    line-height: 70px;}
+    
+}
+
+#p_tag{font-size: 14px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;}
+
+@media only screen and (max-width: 390px){
+
+
+
+    #signup_box{
+        margin-top: 30px;
+    }
+}
+
+@media only screen and (max-width: 376px){
+    #logo{left: 10%;
+        position: relative;
+        max-width: 120px;
+        top: 76px;}
+
+     .form_input{
+            margin: 8px;
+            padding: 7px;
+            width: 200px;
+            border-radius: 3px;
+            outline: none;
+            background-color: rgba(65, 42, 42, 0.19);
+            border: none;
+        }
+
+        #form_option{
+            width: 216px;
+            padding: 7px;
+            outline: none;
+            background-color: rgba(65, 42, 42, 0.19);
+            border-radius: 3px;
+            border: none;
+            margin-top: 7px;
+        
+        }
+
+        #form_sbtn{width: 200px;
+            padding: 7px;
+            outline: none;
+            border-radius: 20px;
+            font-size: 18px;
+            color: white;
+            background-color: black;
+            border: none;
+        
+        
+        }
+        
+        
+        
+ 
+}
+
+@media only screen and (max-width: 340px){
+
+    #signup_box{
+        margin-top: 100px;
+    }
+
+}
+
+@media only screen and (max-width: 300px){
+    .form_input{
+        margin: 8px;
+        padding: 7px;
+        width: 150px;
+        border-radius: 3px;
+        outline: none;
+        background-color: rgba(65, 42, 42, 0.19);
+        border: none;
+    }
+
+    #form_option{
+        width: 165px;
+        padding: 7px;
+        outline: none;
+        background-color: rgba(65, 42, 42, 0.19);
+        border-radius: 3px;
+        border: none;
+        margin-top: 7px;
+    
+    }
+
+    #form_sbtn{width: 150px;
+        padding: 7px;
+        outline: none;
+        border-radius: 20px;
+        font-size: 18px;
+        color: white;
+        background-color: black;
+        border: none;
+    }
+
+    #p_tag{font-size: 12px;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;}
+    
+
+        #signup_box{
+            margin-top: 60px;
+        }
+
+ .showcase_text2{display: block;
+            font-size: 16px;
+        font-weight: 1000;
+        line-height: 30px;
+    padding: 8px;}
+        
+    
+    #main_elements_container{
+        margin-top: 50px;
+    }
+
+    #logo{left: 6%;
+        position: relative;
+        max-width: 120px;
+        top: 76px;}
+
+
+}

@@ -1,0 +1,89 @@
+@media only screen and (max-width:701px){
+    body{
+        background-image: -webkit-linear-gradient(bottom left, rgba(73, 0, 128, 0.756) 20px, rgb(5, 240, 240) );
+        }
+    #main_elements_container{
+        margin-top: 100px;
+    }
+    .showcase_text{
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    #template_box{
+       max-width: 45%;
+        height: 300px;
+        color: white;
+    }
+    #p_tag{
+        font-size: 16px;
+    }
+    #anchor_button{
+        background-color: black;
+    }
+    #form_sbtn{        background-color: black;
+
+
+    }
+
+
+}
+/* mediaquries for 660px screen */
+
+@media only screen and (max-width:660px){
+
+  #logo{left: 52%;
+    position: relative;
+    max-width: 120px;
+    top: 75px;}
+
+    #main_elements_container{
+        margin-top: 10px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        width: 100% !important;
+    }
+
+    #template_box{
+        margin: auto;
+        width: 80% !important;
+        height: 300px;
+        color: white;
+        display: none;
+    }
+
+    #template_box2{
+        margin: auto;
+        width: 100% !important;
+        height: 300px;
+        color: white;
+        display: block;
+        position: relative;
+        text-align: center;
+        
+    }
+
+    #signup_box{margin-top: -10px;}
+
+    #singup_form{
+        margin: auto;
+        width: 80%;
+         height: 300px;
+     }
+
+     .showcase_text{display: none;}
+     .showcase_text2{display: block;
+    font-size: 25px;
+font-weight: 1000;
+line-height: 70px;
+word-wrap: break-word;
+padding: 5px;}
+
+    #br2{display: none;}
+
+    #p_tag{font-size: 16px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+padding: 10px;}
+    
+}
